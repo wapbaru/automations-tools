@@ -1,8 +1,3 @@
-###----------[ AUTHOR ]---------- ###
-Author = 'Dapunta Khurayra X'
-Version = 0.1
-Facebook = 'Facebook.com/Dapunta.Khurayra.X'
-Instagram = 'Instagram.com/ratya.anonym.id'
 
 # --> Modules
 import requests,bs4,sys,os,datetime,re
