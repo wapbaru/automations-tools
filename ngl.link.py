@@ -124,4 +124,4 @@ if __name__ == '__main__':
     clear()
     NGL_Link()
 
-# https://ngl.link/ratyanonim
+# 
