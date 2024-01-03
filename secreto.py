@@ -1,8 +1,4 @@
-###----------[ AUTHOR & CREATOR ]---------- ###
-# ------ [ Gausah Dioprek Ntar Error ] ------ #
-Author    = 'Dapunta Khurayra X'
-Facebook  = 'Facebook.com/Dapunta.Khurayra.X'
-Instagram = 'Instagram.com/Dapunta.Ratya'
+
 
 ###----------[ IMPORT MODULE ]---------- ###
 import requests,bs4,sys,os,re
